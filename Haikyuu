@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/index.css">
+		<link rel="stylesheet" type="text/css" href="css/main.css"/>
+
+		
+		</style>
+	</head>
+	<body>
+		<!-- header begin -->
+		<header id="head">
+			<div class="con">
+				<p><marquee>欢迎来到由温冬妮制作的非官方《排球少年》网页</marquee></p>
+			</div>
+		</header>
+		<!-- header end -->
+		<!-- nav begin -->
+		<nav>
+			<div class="nav_in">
+				<ul>
+					<li><a href="index.html">首页</a></li>
+					<li><a href="content.html">队伍简介</a></li>
+					<li><a href="video.html">精彩视频</a></li>
+					<li><a href="survey.html">调查问卷</a></li>
+				</ul>
+			</div>
+		</nav>
+		<!-- nav end -->
+		<!-- div begin -->
+		<div class="background">
+			<div class="banner">
+				<div id="top">
+					<h2><strong>排球少年！！</strong></h2>
+					<div class="picture">
+						<img src="picture/wuyeall.jpg">
+					</div>
+					<div class="word">
+						<p>《排球少年!!》是日本漫画家古馆春一创作的少年漫画作品。</p>
+						<p>该作品于2012年2月20日—2020年7月13日在集英社杂志《周刊少年Jump》上连载。已完结。</p>
+						<p>本作繁体中文版由东立出版社发行，中国大陆由翻翻动漫代理发行 ，简体中文实体版由浙江人民美术出版社发行，电子版由腾讯动漫、快看漫画、哔哩哔哩漫画、漫番漫画发布。</p>
+						<p>本作曾获“全国书店店员推荐漫画”2013年第4名 、“这本漫画真厉害!”2013年男性篇第4名 、
+						<p>“SUGOI JAPAN”2015年漫画部门第3名 [4]  、2016年第61回小学馆漫画赏少年部门奖、2021年“历史上最棒的体育漫画”第15名 。</p>
+						<p>于2013年10月7日发售的《周刊少年JUMP》2013年第45号上正式宣布了本作动画化的消息，
+						<p>由Production I.G负责制作，改编自本作的同名电视动画于2014年4月6日起播出。</p>
+						<p>2015年8月19日，经日本纪念日协会确认，将每年的8月19日定为“排球少年日”。</p>
+						<p>截至2020年10月29日，漫画单行本发行量已突破5000万部。</p><br /><br />
+						<h3><strong>剧情简介：</strong></h3><br />
+						<p>小时候，男主角日向翔阳从电视上看见了排球比赛，乌野高中的一名小个子在球场上的英姿，简直就是个“小巨人”，
+						翔阳对此印象非常深刻，并开始迷上排球，一直想成为“小巨人”一样的人。</p>
+						<p>初中时排球社不够人数，只好默默等待，后来在终于有新成员后，参与了第一次也是最后一次的比赛，不幸对决了最强队伍，结果当然落败。</p>
+						<p>单凭自己的话，是绝对无法看见那景色的，不是自己一人的话，或许就能看见了…...为了能够打出“胜利”的比赛，翔阳努力考入乌野高中，为了实现成为“小巨人”的排球梦想!</p>
+					</div><br /><br />
+					<div class="music">
+						<p><strong>《排球少年！！》动画主题曲：</strong></p><br />
+						<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=950 height=86 src="//music.163.com/outchain/player?type=2&id=405079762&auto=1&height=66">
+						</iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- div end -->
+		<!-- footer begin -->
+		<footer>
+			<div class="foot">
+				<p>Copyright 温冬妮 版权所有</p>
+			</div>
+		</footer>
+		<!-- footer end -->
+	</body>
+</html>
